@@ -3,7 +3,7 @@
 ## ⭐️ Overview  
 In Week 5 of the Data Bootcamp, I focused on **cloud computing, data security, and Microsoft Azure services**. I explored cloud providers, data protection laws, and best practices for handling business data securely.  
 
-## 📍 Key Learnings  
+## 📌 Key Learnings  
 
 ### **Cloud Computing Concepts**  
 - Researched **real-world applications** of cloud computing in businesses.  
