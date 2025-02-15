@@ -1,7 +1,7 @@
 # "Week 5 - Fundamentals of Azure"  
 
 ## ⭐️ Overview  
-In Week 5 of the Data Bootcamp, I focused on **cloud computing, data security, and Microsoft Azure services**. I explored cloud providers, data protection laws, and best practices for handling business data securely. Below is a breakdown of my key learnings and completed tasks.  
+In Week 5 of the Data Bootcamp, I focused on **cloud computing, data security, and Microsoft Azure services**. I explored cloud providers, data protection laws, and best practices for handling business data securely.  
 
 ## 📍 Key Learnings  
 
